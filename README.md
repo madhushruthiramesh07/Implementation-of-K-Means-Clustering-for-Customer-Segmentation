@@ -72,7 +72,8 @@ plt.show()
 
 ![WhatsApp Image 2026-03-09 at 11 16 02 AM (1)](https://github.com/user-attachments/assets/a09a7969-da1e-4e76-993f-2e22d6e19f3e)
 
-![WhatsApp Image 2026-03-09 at 11 16 02 AM (1)](https://github.com/user-attachments/assets/a59186e3-751f-495d-a2ac-367b9f290b09)
+![WhatsApp Image 2026-03-09 at 11 16 02 AM (2)](https://github.com/user-attachments/assets/7da0c73d-204f-439b-926d-c8f8082788fb)
+
 
 
 
